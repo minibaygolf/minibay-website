@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://silly-kelpie-5ecb20.netlify.app/sitemap.xml
+Sitemap: https://minibaygolf.github.io/minibay-website/sitemap.xml
